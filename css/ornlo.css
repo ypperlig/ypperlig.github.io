@@ -1,0 +1,44 @@
+footer {
+    text-align: center;
+}
+
+.wrapper {
+    max-width: 700px; 
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ui.menu > .item {
+    font-size: 18px !important;
+}
+
+footer > .list > .item a {
+    font-size: 22px;
+}
+
+
+footer > .list > .item a {
+    color: #bbbbbb;
+}
+
+footer > .list > .item .linkedin:hover {
+    color: #0077b5;
+}
+
+footer > .list > .item .github:hover {
+    color: #333;
+}
+
+footer > .list > .item .twitter:hover {
+    color: #1da1f2;
+}
+
+footer > .list > .item .envelope:hover {
+    color: #333;
+}
+
+.site-description  {
+    font-weight: normal;
+    font-size: 20px;
+}
