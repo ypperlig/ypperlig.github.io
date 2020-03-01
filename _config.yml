@@ -1,9 +1,0 @@
-# Site settings
-title: Lars Ørnlo
-email: lars.oernlo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hello there and welcome to my website!<br>
-  My interests mostly include development, system administration, video games, and food.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-github_username:  ypperlig
